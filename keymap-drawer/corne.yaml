@@ -41,13 +41,13 @@ layers:
   - {t: /, s: '?'}
   - $$mdi:keyboard-esc$$
   - $$mdi:keyboard-space$$
-  - LGUI
+  - $$mdi:apple-keyboard-option$$
   - NUMBER
   - {t: '$$mdi:keyboard-space$$', h: FN}
   - $$mdi:arrow-right-bold$$
   - {t: '$$mdi:keyboard-return$$', h: FN}
   - SYMBOL
-  - $$mdi:apple-keyboard-option$$
+  - RGUI
   - {t: '$$mdi:keyboard-return$$', type: enter}
   NUMBER:
   - {t: '$$mdi:transfer$$', type: trans}
